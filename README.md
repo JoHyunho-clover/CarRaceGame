@@ -1,11 +1,11 @@
 # CarRaceGame
 자동차 경주게임 with java
 
-Application.java -> 메인으로 실행하는 파일
-car.java -> 자동차에 대한 인터페이스파일
-carImpl.java -> 자동차의 이름과 가지고 있는 전진 횟수를 나타냄
-carRepository.java -> 입력한 자동차의 정보를 가지고 있으며 Map을 활용하였다. List로 해도 될것같다.
-
+Application.java -> 메인으로 실행하는 파일   
+car.java -> 자동차에 대한 인터페이스파일   
+carImpl.java -> 자동차의 이름과 가지고 있는 전진 횟수를 나타냄   
+carRepository.java -> 입력한 자동차의 정보를 가지고 있으며 Map을 활용하였다. List로 해도 될것같다.   
+   
 ## 기능
 - 주어진 횟수 동안 n대의 자동차는 전진 또는 멈출 수 있다.
 - 각 자동차에 이름을 부여할 수 있다. 전진하는 자동차를 출력할 때 자동차 이름을 같이 출력한다.
